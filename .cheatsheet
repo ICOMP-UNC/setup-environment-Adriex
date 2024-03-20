@@ -1,3 +1,5 @@
 cmake -GNinja
 ninja
 clang-format -style=Microsoft -i src/adder.c 
+ldd Tp0
+cmake -GNinja -DRUN-TESTS=1 ..       
