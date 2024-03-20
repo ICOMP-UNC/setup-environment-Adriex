@@ -1,0 +1,2 @@
+cmake -GNinja
+clang-format -style=Microsoft -i src/adder.c 

@@ -1,0 +1,3 @@
+/home/adriel/Proyectos/S0II-2024/setup-environment-Adriex/CMakeFiles/Tp0.dir
+/home/adriel/Proyectos/S0II-2024/setup-environment-Adriex/CMakeFiles/edit_cache.dir
+/home/adriel/Proyectos/S0II-2024/setup-environment-Adriex/CMakeFiles/rebuild_cache.dir
