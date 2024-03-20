@@ -1,3 +1,9 @@
 /home/adriel/Proyectos/S0II-2024/setup-environment-Adriex/CMakeFiles/Tp0.dir
 /home/adriel/Proyectos/S0II-2024/setup-environment-Adriex/CMakeFiles/edit_cache.dir
 /home/adriel/Proyectos/S0II-2024/setup-environment-Adriex/CMakeFiles/rebuild_cache.dir
+/home/adriel/Proyectos/S0II-2024/setup-environment-Adriex/lib/libdyn/CMakeFiles/LibDynamic.dir
+/home/adriel/Proyectos/S0II-2024/setup-environment-Adriex/lib/libdyn/CMakeFiles/edit_cache.dir
+/home/adriel/Proyectos/S0II-2024/setup-environment-Adriex/lib/libdyn/CMakeFiles/rebuild_cache.dir
+/home/adriel/Proyectos/S0II-2024/setup-environment-Adriex/lib/libsta/CMakeFiles/LibStatic.dir
+/home/adriel/Proyectos/S0II-2024/setup-environment-Adriex/lib/libsta/CMakeFiles/edit_cache.dir
+/home/adriel/Proyectos/S0II-2024/setup-environment-Adriex/lib/libsta/CMakeFiles/rebuild_cache.dir
