@@ -3,3 +3,6 @@ ninja
 clang-format -style=Microsoft -i src/adder.c 
 ldd Tp0
 cmake -GNinja -DRUN-TESTS=1 ..       
+ctest --test-dir tests 
+ctest --test-dir tests -VV
+gcovr -r /home/adriel/Proyectos/S0II-2024/setup-environment-Adriex .    
